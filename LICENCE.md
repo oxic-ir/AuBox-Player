@@ -1,5 +1,5 @@
 AuBox Player License Agreement
-*(Last Updated: [2025/11/02])*  
+*(Last Updated: [2025/11/02][year/day/month])*  
 
 ---
 
