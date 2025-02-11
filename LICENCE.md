@@ -48,7 +48,7 @@ As the company is not officially registered, any disputes regarding this license
 7. Contact & Permissions
 For any inquiries regarding this license or to obtain special permissions, contact:  
 📧 info@durion.site  
-🌐 **[aubox.ir](https://aubox.ir)  
+🌐 **[aubox.ir](https://aubox.ir)**  
 
 ---
 
